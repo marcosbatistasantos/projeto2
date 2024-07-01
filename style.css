@@ -1,4 +1,4 @@
-root { --branco-principal:
+:root { --branco-principal:
     #FFFFFF;
     --cinza-secundario:
     #C0C0C0;
@@ -92,3 +92,4 @@ body {
     .container__descricao {
         padding: 2em;
     }
+    
